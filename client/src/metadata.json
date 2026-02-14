@@ -1,0 +1,8 @@
+{
+  "name": "SBG Project Hub",
+  "description": "A comprehensive digital ecosystem for Small Business Grant beneficiaries featuring a marketplace, micro-academy, monitoring system, and B2B network.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
